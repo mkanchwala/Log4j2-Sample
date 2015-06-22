@@ -1,4 +1,4 @@
-# Log4j2-Sample
+# Log4j2 - Apache Log4j Sample Application
 
 Sample Project to show the capability on log4j and log4j2
 
