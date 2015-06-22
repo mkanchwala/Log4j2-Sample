@@ -8,7 +8,7 @@ and enter a number.
 
 Also Remember to change the properties in the log4j2.xml
 
-	<Property name="log-path">C:/logs/</Property>
+	   <Property name="log-path">C:/logs/</Property>
 		<Property name="log-project-name">sample</Property>
 		<Property name="log-pattern">%d{ISO8601} %-5p [Sample][%t|%c{1}] %L %M %m\n</Property>
 		<Property name="rollover-strategy-max">7</Property>
